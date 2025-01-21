@@ -1,4 +1,4 @@
-# iPhone Website Clone
+# iPhone 15 Pro Website Clone
 
 <div align="center">
   <h3 align="center">A 3D Interactive iPhone 15 Pro Showcase</h3>

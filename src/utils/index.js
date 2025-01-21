@@ -13,7 +13,6 @@ import framemv from "/assets/videos/frame.mp4";
 
 // logo and favicon
 import apple from "/assets/images/apple.svg";
-import logo from "/assets/images/logo.png";
 import search from "/assets/images/search.svg";
 import bag from "/assets/images/bag.svg";
 import watch from "/assets/images/watch.svg";
